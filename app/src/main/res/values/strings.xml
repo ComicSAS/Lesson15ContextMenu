@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lesson15ContextMenu</string>
+    <string name="red">RED</string>
+    <string name="green">GREEN</string>
+    <string name="blue">BLUE</string>
+    <string name="txtSize30">TextSize = 30</string>
+    <string name="txtSize26">TextSize = 26</string>
+    <string name="txtSize22">TextSize = 22</string>
+    <string name="txtColorBlue">Text color = blue</string>
+    <string name="txtColorGreen">Text color = green</string>
+    <string name="txtColorRed">Text color = red</string>
+</resources>
